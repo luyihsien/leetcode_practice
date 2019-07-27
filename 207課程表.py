@@ -42,11 +42,15 @@ class Solution:
         while queue:
             top = queue.pop(0)
             counter += 1
+            print('counter',counter)
             # 步骤3：把这个结点的所有后继结点的入度减去 1，如果发现入度为 0 ，就马上添加到队列中
+            print('adj[{}]'.format(top),adj[top])
             for successor in adj[top]:
                 in_degrees[successor] -= 1
+                print('in_degrees[{}] -= 1'.format(successor),in_degrees)
                 if in_degrees[successor] == 0:
                     queue.append(successor)
             print('queue',queue)
         return counter == numCourses
 print(Solution().canFinish(3,[[1,0],[1,2]]))
+print(Solution().canFinish(2,[[1,0],[0,1]]))
