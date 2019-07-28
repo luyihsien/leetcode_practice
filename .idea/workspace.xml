@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="42f541a0-8a6e-4c8c-b216-d5116913f7dd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/46.全排列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_contest/double_week/week5/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/143/143-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/數學思維與邏輯訓練/假幣.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/遞迴/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_contest/double_week/week5/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/week147/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/week147/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/week147/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode_contest/week/week147/4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/207課程表.py" beforeDir="false" afterPath="$PROJECT_DIR$/207課程表.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/math and DS&amp;AL/15倍數.py" beforeDir="false" afterPath="$PROJECT_DIR$/math and DS&amp;AL/15倍數.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/書本範例/書名.txt" beforeDir="false" afterPath="$PROJECT_DIR$/書本範例/書名.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,85 +19,35 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week4/double_week4-1.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week4/double_week4-2.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week4/double_week4-3.py">
+        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/143/143-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py">
+        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="312">
+              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/46.全排列.py">
+        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/遞迴/factorial.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/數學思維與邏輯訓練/假幣.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/4.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -151,6 +97,11 @@
         <option value="$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py" />
         <option value="$PROJECT_DIR$/leetcode_contest/double_week/week5/2.py" />
         <option value="$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py" />
+        <option value="$PROJECT_DIR$/leetcode_contest/double_week/week5/3.py" />
+        <option value="$PROJECT_DIR$/leetcode_contest/week/week147/4.py" />
+        <option value="$PROJECT_DIR$/leetcode_contest/week/week147/1.py" />
+        <option value="$PROJECT_DIR$/leetcode_contest/week/week147/3.py" />
+        <option value="$PROJECT_DIR$/leetcode_contest/week/week147/2.py" />
       </list>
     </option>
   </component>
@@ -166,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -188,26 +138,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
-              <item name="double_week" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
-              <item name="double_week" type="462c0819:PsiDirectoryNode" />
-              <item name="week4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
-              <item name="double_week" type="462c0819:PsiDirectoryNode" />
-              <item name="week5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
               <item name="week" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -215,14 +145,7 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
               <item name="week" type="462c0819:PsiDirectoryNode" />
-              <item name="143" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode_contest" type="462c0819:PsiDirectoryNode" />
-              <item name="week" type="462c0819:PsiDirectoryNode" />
-              <item name="146" type="462c0819:PsiDirectoryNode" />
+              <item name="week147" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -254,6 +177,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,6 +195,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karenwang\PycharmProjects\leetcode\leetcode_contest\week" />
       <recent name="C:\Users\karenwang\PycharmProjects\leetcode\leetcode_contest\week\146" />
       <recent name="C:\Users\karenwang\PycharmProjects\leetcode\leetcode_contest\double_week\week4" />
       <recent name="C:\Users\karenwang\PycharmProjects\leetcode\leetcode_contest\double_week" />
@@ -289,8 +214,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2 (1)">
+    <configuration name="1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,12 +223,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/double_week/week5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/week/week147" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/week/week147/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="143-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,12 +245,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/week/143" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/week/week147" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/week/143/143-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/week/week147/2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -356,7 +281,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="96.不同的二插搜尋樹II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,12 +289,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/week/143" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode_contest/week/week147" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode_contest/week/week147/3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -402,11 +327,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.2" />
+        <item itemvalue="Python.2 (1)" />
+        <item itemvalue="Python.3" />
         <item itemvalue="Python.factorial" />
-        <item itemvalue="Python.96.不同的二插搜尋樹II" />
-        <item itemvalue="Python.143-2" />
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -430,18 +355,19 @@
       <workItem from="1563932636470" duration="8123000" />
       <workItem from="1564025901436" duration="11197000" />
       <workItem from="1564103136197" duration="11043000" />
-      <workItem from="1564202566630" duration="5674000" />
+      <workItem from="1564202566630" duration="6790000" />
+      <workItem from="1564280864601" duration="4684000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73606000" />
+    <option name="totallyTimeSpent" value="79406000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25573066" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25931233" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -469,7 +395,7 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1564239396543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/double_week/week5" />
+    <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1564281488137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/double_week/week5" />
     <SUITE FILE_PATH="coverage/leetcode$week145_2__1_.coverage" NAME="week145-2 (1) Coverage Results" MODIFIED="1563088505607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/week145" />
     <SUITE FILE_PATH="coverage/leetcode$146_1.coverage" NAME="146-1 Coverage Results" MODIFIED="1564026837183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/146" />
     <SUITE FILE_PATH="coverage/leetcode$15.coverage" NAME="15倍數 Coverage Results" MODIFIED="1564043583654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math and DS&amp;AL" />
@@ -477,14 +403,17 @@
     <SUITE FILE_PATH="coverage/leetcode$2_.coverage" NAME="2.四则运算 Coverage Results" MODIFIED="1564040685030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/算法趣題" />
     <SUITE FILE_PATH="coverage/leetcode$207.coverage" NAME="207課程表 Coverage Results" MODIFIED="1564108398606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3__2.coverage" NAME="3.兩數相加-2 Coverage Results" MODIFIED="1563639279185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1564282421754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/week147" />
     <SUITE FILE_PATH="coverage/leetcode$week145_2.coverage" NAME="week145-2 Coverage Results" MODIFIED="1563177467258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest" />
     <SUITE FILE_PATH="coverage/leetcode$1_binary_gap.coverage" NAME="1.binary_gap Coverage Results" MODIFIED="1563959556073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility" />
-    <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="2 Coverage Results" MODIFIED="1564239372380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/double_week/week5" />
-    <SUITE FILE_PATH="coverage/leetcode$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1564219973490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/遞迴" />
+    <SUITE FILE_PATH="coverage/leetcode$2.coverage" NAME="2 Coverage Results" MODIFIED="1564282425753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/double_week/week5" />
+    <SUITE FILE_PATH="coverage/leetcode$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1564282864052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/遞迴" />
     <SUITE FILE_PATH="coverage/leetcode$3_.coverage" NAME="3.無重複字符最長字串 Coverage Results" MODIFIED="1563462217502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$6_Z.coverage" NAME="6.Z字形變換 Coverage Results" MODIFIED="1563934512868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$143_2.coverage" NAME="143-2 Coverage Results" MODIFIED="1564109118937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/143" />
     <SUITE FILE_PATH="coverage/leetcode$week145.coverage" NAME="week145 Coverage Results" MODIFIED="1563072800402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest" />
+    <SUITE FILE_PATH="coverage/leetcode$3.coverage" NAME="3 Coverage Results" MODIFIED="1564284000997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/week147" />
+    <SUITE FILE_PATH="coverage/leetcode$2__1_.coverage" NAME="2 (1) Coverage Results" MODIFIED="1564285567370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode_contest/week/week147" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week_4-1.py" />
@@ -634,21 +563,21 @@
     <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week4/double_week4-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_contest/week/143/143-2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/數學思維與邏輯訓練/假幣.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -659,31 +588,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/46.全排列.py">
+    <entry file="file://$PROJECT_DIR$/數學思維與邏輯訓練/假幣.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/143/96.不同的二插搜尋樹II.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        <state relative-caret-position="247">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/1.py">
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/double_week/week5/3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46.全排列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_contest/week/week147/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
         </state>
       </provider>
     </entry>
