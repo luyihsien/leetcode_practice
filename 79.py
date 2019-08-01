@@ -26,6 +26,7 @@ class Solution:
                     print('remove({},{})'.format(tmp_i,tmp_j))
                     visited.remove((tmp_i, tmp_j))
                     print('visited remove後的visted={}'.format(visited))# 回溯
+            print('final visited',visited)#有add過才有本錢被remove
             return False
 
 
@@ -59,3 +60,4 @@ false
 预期结果
 true
 """
+#利用遞迴的順序性結合共用的sett去思考dfs的回溯對策
