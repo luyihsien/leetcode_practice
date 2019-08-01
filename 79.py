@@ -18,6 +18,7 @@ class Solution:
                 tmp_j = y + j
                 print('tmp_i',tmp_i,'tmp_j',tmp_j)
                 if 0 <= tmp_i < row and 0 <= tmp_j < col and (tmp_i, tmp_j) not in visited and board[tmp_i][tmp_j] == word[k]:#子遞迴沒東西無功而返，其父得到在if區得到None而入removed(平常再入遞迴或已return True)
+                    #若不加上上面條件會因board對應不到值而error
                     visited.add((tmp_i, tmp_j))#紀錄已經訪問的點
                     print('visited',visited)
                     if helper(tmp_i, tmp_j, k + 1, visited):#遞迴#visited的順序沒差，靠的是參數去找(i,j)，visited只負責確認有無訪過
